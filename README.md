@@ -2,7 +2,7 @@
 
 GroceryList Program
 
-A useful condole program for creating a printable shopping list.
+A useful console program for creating a printable shopping list.
 
 Features:
 Menu driven
